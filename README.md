@@ -26,7 +26,8 @@ Resting Pandas is a human interaction application designed to solve sleeping iss
 
 ## Getting Started
 
-To explore the Resting Pandas application and its various features, please refer to the PDF documents in the main branch. Each document provides valuable insights into the development process and the considerations taken to create an effective solution for sleeping issues.
+To explore the Resting Pandas application and its various features, please refer to the PDF documents in the main branch. <br>
+Each document provides valuable insights into the development process and the considerations taken to create an effective solution for sleeping issues.
 
 ## Feedback and Contributions
 
